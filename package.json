@@ -1,0 +1,27 @@
+{
+  "name": "announcement-skillset",
+  "version": "1.0.0",
+  "description": "Make announcements across the spectrum of services you use",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Truemedia/announcement-skillset.git"
+  },
+  "keywords": [
+    "lowbot",
+    "skillset",
+    "announcement",
+    "blog",
+    "article",
+    "post"
+  ],
+  "author": "Wade Penistone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Truemedia/announcement-skillset/issues"
+  },
+  "homepage": "https://github.com/Truemedia/announcement-skillset#readme"
+}
