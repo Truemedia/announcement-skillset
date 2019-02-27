@@ -1,6 +1,6 @@
 {
   "name": "announcement-skillset",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Make announcements across the spectrum of services you use",
   "main": "src/index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/Truemedia/announcement-skillset.git"
   },
   "keywords": [
-    "lowbot",
+    "mindstack",
     "skillset",
     "announcement",
     "blog",
@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/Truemedia/announcement-skillset/issues"
   },
-  "homepage": "https://github.com/Truemedia/announcement-skillset#readme"
+  "homepage": "https://github.com/Truemedia/announcement-skillset#readme",
+  "dependencies": {
+    "data-bite": "^2.2.0",
+    "hightech": "^0.2.0"
+  }
 }
